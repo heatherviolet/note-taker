@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/heatherviolet/note-taker#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "express-ruid": "^1.1.4",
+    "nanoid": "^3.2.0"
   }
 }
